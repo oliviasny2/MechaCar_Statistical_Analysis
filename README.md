@@ -28,7 +28,7 @@ The R-squared value is 0.7149, which I would consider means that the model is mo
 The total summary indicates that the design specifications are being met. However, in grouping the statistics by manufacturing lot, only lots 1 and 2 are upholding the design specifications and lot 3 is not meeting the specifications at all.
 
 
-
+## T-Tests on Suspension Coils
 
 
 
