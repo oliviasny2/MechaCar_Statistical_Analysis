@@ -28,6 +28,28 @@ The R-squared value is 0.7149, which I would consider means that the model is mo
 The total summary indicates that the design specifications are being met. However, in grouping the statistics by manufacturing lot, only lots 1 and 2 are upholding the design specifications and lot 3 is not meeting the specifications at all.
 
 
+## T-Tests on Suspension Coils
+
+For all of these screenshots below, the null hypothesis is that the sample mean for the weight capacity of suspension coils = 1500 PSIs, while the alternative hypothesis is that the sample mean for the weight capacity of suspension coils does not equa
+
+<img width="467" alt="Deliverable 3 total PSI output" src="https://user-images.githubusercontent.com/101011641/174503060-a31ce50e-8d6c-4af3-bbf9-3e120638f510.png">
+
+* If I use the standard p-value of 0.05, then the total PSI is not statistically significant. Using a population mean of 1500 PSIs, the sample of suspension coils tested is not statistically different from that number
+
+<img width="470" alt="Deliverable 3 lot 1 PSI output" src="https://user-images.githubusercontent.com/101011641/174503210-2c941780-8ffe-4571-ad9c-052b4c627df8.png">
+
+* Manufacturing lot 1 has a p-value of 1, so there is no way to fail to reject the null hypothesis more
+
+<img width="449" alt="Deliverable 3 lot 2 PSI output" src="https://user-images.githubusercontent.com/101011641/174503320-c5391a82-4944-4395-bb53-258f95c6be1c.png">
+
+* Manufacturing lot 2 has a p-value of 0.6072, indicating that it is no statistically significant, and we fail to reject the null hypothesis
+
+<img width="474" alt="Deliverable 3 lot 3 PSI output" src="https://user-images.githubusercontent.com/101011641/174503380-f1f0cbcf-5304-4a67-9002-bca42d8e9127.png">
+
+* Manufacturing lot 3 has a p-value of 0.04168, indicating that it is statistically significant, and we reject the null hypothesis
+
+## Study Design: MechaCar vs Competition
+
 
 
 
