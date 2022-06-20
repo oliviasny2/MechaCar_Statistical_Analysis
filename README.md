@@ -66,3 +66,4 @@ I would likely run an ANOVA test because it is an easy way to compare data acros
 
 ### What data is needed to run the statistical test?
 
+National Highway Traffic and Safety Administraton likely has data on most of the metrics above, like safety ratings, MPG, and horsepower. In addition to the metrics above, it would be important to have identifying characteristics, like car make and model. Additionally, maintenance costs can include many thing: oil changes, transmission flushes, brakes, tires, and additional costs based on things other than wear and tear, so information under all of those costs will be important to compile and find averages based on each car brand/type.
