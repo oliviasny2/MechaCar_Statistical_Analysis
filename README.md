@@ -50,9 +50,19 @@ For all of these screenshots below, the null hypothesis is that the sample mean 
 
 ## Study Design: MechaCar vs Competition
 
+### What metric or metrics are you going to test?
 
+To compare the performance of the MechaCar to the performance of vehicles of other competitors, the metrics I would use are MPG, safety rating, maintenance costs, acceleration and braking speeds, and horsepower.
 
+### What is the null hypothesis or alternative hypothesis? 
 
+H(0): All metrics: MPG, safety rating, maintenance costs, acceleration and braking speeds, and horsepower, are the same across all vehicles of similar caliber
 
+H(A): At least on of those metrics does not equal each the others
 
+### What statistical test would you use to test the hypothesis? And why?
+
+I would likely run an ANOVA test because it is an easy way to compare data across several samples/populations. I would also probably run a multiple linear regression so that I could visualize the relationship between my metrics across the performance of all of the vehicles 
+
+### What data is needed to run the statistical test?
 
